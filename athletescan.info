@@ -1,0 +1,4 @@
+name = AthletesCAN Customizations
+description = Allows creation of user via webform
+core = 7.x
+dependencies[] = webform
